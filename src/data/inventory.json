@@ -1,0 +1,173 @@
+[
+  {
+    "id": 120,
+    "name": "Juice Box",
+    "quantity": 10,
+    "expiry": "2025-11-27",
+    "price": 20.00,
+    "supplier": "JuiceCo",
+    "category": "Beverages"
+  },
+  {
+    "id": 119,
+    "name": "Snacks",
+    "quantity": 10,
+    "expiry": "2025-12-25",
+    "price": 40.00,
+    "supplier": "SnackCo",
+    "category": "Snacks"
+  },
+  {
+    "id": 118,
+    "name": "Pasta",
+    "quantity": 10,
+    "expiry": "2026-01-30",
+    "price": 60.00,
+    "supplier": "PastaCo",
+    "category": "Grains"
+  },
+  {
+    "id": 117,
+    "name": "Rice",
+    "quantity": 10,
+    "expiry": "2026-03-10",
+    "price": 50.00,
+    "supplier": "GrainFarm",
+    "category": "Grains"
+  },
+  {
+    "id": 116,
+    "name": "Fish",
+    "quantity": 10,
+    "expiry": "2025-11-21",
+    "price": 250.00,
+    "supplier": "SeafoodCo",
+    "category": "Seafood"
+  },
+  {
+    "id": 115,
+    "name": "Chicken",
+    "quantity": 10,
+    "expiry": "2025-11-20",
+    "price": 200.00,
+    "supplier": "MeatCo",
+    "category": "Meat"
+  },
+  {
+    "id": 114,
+    "name": "Paneer",
+    "quantity": 10,
+    "expiry": "2025-12-12",
+    "price": 90.00,
+    "supplier": "DairyFarm",
+    "category": "Dairy"
+  },
+  {
+    "id": 113,
+    "name": "Carrot",
+    "quantity": 10,
+    "expiry": "2025-12-01",
+    "price": 4.00,
+    "supplier": "VegFarm",
+    "category": "Vegetables"
+  },
+  {
+    "id": 112,
+    "name": "Potato",
+    "quantity": 10,
+    "expiry": "2025-12-05",
+    "price": 2.50,
+    "supplier": "VegFarm",
+    "category": "Vegetables"
+  },
+  {
+    "id": 111,
+    "name": "Tomato",
+    "quantity": 10,
+    "expiry": "2025-11-22",
+    "price": 5.00,
+    "supplier": "VegFarm",
+    "category": "Vegetables"
+  },
+  {
+    "id": 110,
+    "name": "Cereal",
+    "quantity": 10,
+    "expiry": "2026-02-10",
+    "price": 120.00,
+    "supplier": "CerealCo",
+    "category": "Grains"
+  },
+  {
+    "id": 109,
+    "name": "Orange Juice",
+    "quantity": 10,
+    "expiry": "2025-12-15",
+    "price": 60.00,
+    "supplier": "JuiceCo",
+    "category": "Beverages"
+  },
+  {
+    "id": 108,
+    "name": "Apple",
+    "quantity": 10,
+    "expiry": "2025-11-28",
+    "price": 10.00,
+    "supplier": "FruitFarm",
+    "category": "Fruits"
+  },
+  {
+    "id": 107,
+    "name": "Chocolate",
+    "quantity": 10,
+    "expiry": "2026-01-20",
+    "price": 50.00,
+    "supplier": "SweetCo",
+    "category": "Snacks"
+  },
+  {
+    "id": 106,
+    "name": "Butter",
+    "quantity": 10,
+    "expiry": "2025-12-10",
+    "price": 80.00,
+    "supplier": "DairyFarm",
+    "category": "Dairy"
+  },
+  {
+    "id": 104,
+    "name": "Eggs",
+    "quantity": 10,
+    "expiry": "2025-12-05",
+    "price": 60.00,
+    "supplier": "EggFarm",
+    "category": "Poultry"
+  },
+  {
+    "id": 103,
+    "name": "Cheese",
+    "quantity": 10,
+    "expiry": "2026-01-15",
+    "price": 120.00,
+    "supplier": "CheeseCo",
+    "category": "Dairy"
+  },
+  {
+    "id": 102,
+    "name": "Bread",
+    "quantity": 10,
+    "expiry": "2025-11-25",
+    "price": 25.00,
+    "supplier": "BakeryHouse",
+    "category": "Bakery"
+  },
+  {
+    "id": 101,
+    "name": "Milk",
+    "quantity": 10,
+    "expiry": "2025-11-20",
+    "price": 45.50,
+    "supplier": "DairyFarm",
+    "category": "Dairy"
+  }
+]
