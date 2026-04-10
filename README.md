@@ -1,7 +1,7 @@
-# Smart Expiry Tracker
+# Shelf2Support
 
 ## Description
-Smart Expiry Tracker is a console-based Data Structures project developed in C.
+Shelf2Support is a console-based Data Structures project developed in C.
 The system helps manage product expiry dates and reduces wastage by providing
 smart suggestions such as discounts and donor recommendations for near-expiry items.
 
@@ -19,8 +19,10 @@ smart suggestions such as discounts and donor recommendations for near-expiry it
 
 ## Data Structures Concepts Used
 - Arrays
-- Structures
-- File Handling
+- Linked Lists
+- Binary Search Trees
+- Priority Queue
+- Hashing
 - Searching
 - Conditional Logic
 
